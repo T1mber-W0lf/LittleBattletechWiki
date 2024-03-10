@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+@import "nullstyle.scss";
+.GenInformation
+{
+	font-family: 'Montserrat';
+	font-size: 25px;
+	color:white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.GenInformationMain
+{
+	font-family: 'Montserrat';
+	font-size: 25px;
+	color:white;
+}
+
+.GenInformationFractions
+{
+	font-family: 'Montserrat';
+	font-size: 25px;
+	color:white;
+	background-color:rgba(0, 0, 0, 0.75);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.ForMainTextFractions
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+	background-color:rgba(0, 0, 0, 0.75);
+}
+
+.GenInformationSituations
+{
+	font-family: 'Montserrat';
+	font-size: 25px;
+	color:white;
+	background-color:rgba(0, 0, 0, 0.65);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.ForMainTextSituations
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+	background-color:rgba(0, 0, 0, 0.65);
+}
+
+
+.Navigation
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+}
+
+.NavigationMP
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+	dispay:flex;
+	margin-left: 30px;
+	margin-right: 30px;
+	text-align: center;
+}
+
+.ForMainTextHistory
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+}
+
+.ForMainTextRules
+{
+	font-family: 'Roboto Mono';
+	font-size: 20px;
+	color:white;
+	background-color:rgba(0, 0, 0, 0.5);
+}
